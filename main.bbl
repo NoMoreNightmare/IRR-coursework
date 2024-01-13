@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{iot}
+Luigi Atzori, Antonio Iera, and Giacomo Morabito.
+\newblock The internet of things: A survey.
+\newblock {\em Computer Networks}, 54(15):2787--2805, 2010.
+
+\bibitem{Distributed_Offloading_in_Overlapping_Areas}
+Jiwei Huang, Ming Wang, Yuan Wu, Ying Chen, and Xuemin Shen.
+\newblock Distributed offloading in overlapping areas of mobile-edge computing
+  for internet of things.
+\newblock {\em IEEE Internet of Things Journal}, 9(15):13837--13847, 2022.
+
+\bibitem{Internet_of_Things_offloading_Ongoing_issues}
+Arash Heidari, Mohammad~Ali Jabraeil~Jamali, Nima Jafari~Navimipour, and Shahin
+  Akbarpour.
+\newblock Internet of things offloading: Ongoing issues, opportunities, and
+  future challenges.
+\newblock {\em International Journal of Communication Systems}, 33(14):e4474,
+  2020.
+\newblock e4474 IJCS-19-0207.R3.
+
+\bibitem{A_Cooperative_Partial_Computation_Offloading_Scheme_for_Mobile_Edge}
+Zhaolong Ning, Peiran Dong, Xiangjie Kong, and Feng Xia.
+\newblock A cooperative partial computation offloading scheme for mobile edge
+  computing enabled internet of things.
+\newblock {\em IEEE Internet of Things Journal}, 6(3):4804--4814, 2019.
+
+\bibitem{cloud_advatange}
+Manuel Díaz, Cristian Martín, and Bartolomé Rubio.
+\newblock State-of-the-art, challenges, and open issues in the integration of
+  internet of things and cloud computing.
+\newblock {\em Journal of Network and Computer Applications}, 67:99--117, 2016.
+
+\bibitem{cloud_central}
+Muhammad Asim, Yong Wang, Kezhi Wang, and Pei-Qiu Huang.
+\newblock A review on computational intelligence techniques in cloud and edge
+  computing.
+\newblock {\em IEEE Transactions on Emerging Topics in Computational
+  Intelligence}, 4(6):742--763, 2020.
+
+\bibitem{cloud_advatange_and_problem}
+Alessio Botta, Walter {de Donato}, Valerio Persico, and Antonio Pescapé.
+\newblock Integration of cloud computing and internet of things: A survey.
+\newblock {\em Future Generation Computer Systems}, 56:684--700, 2016.
+
+\bibitem{EC_definition}
+Milan Patel, Brian Naughton, Caroline Chan, Nurit Sprecher, Sadayuki Abeta,
+  Adrian Neal, et~al.
+\newblock Mobile-edge computing introductory technical white paper.
+\newblock {\em White paper, mobile-edge computing (MEC) industry initiative},
+  29:854--864, 2014.
+
+\bibitem{edge_advantage_archetecture}
+Keyan Cao, Yefan Liu, Gongjie Meng, and Qimeng Sun.
+\newblock An overview on edge computing research.
+\newblock {\em IEEE Access}, 8:85714--85728, 2020.
+
+\bibitem{aim_offloading}
+Wei Yu, Fan Liang, Xiaofei He, William~Grant Hatcher, Chao Lu, Jie Lin, and
+  Xinyu Yang.
+\newblock A survey on the edge computing for the internet of things.
+\newblock {\em IEEE Access}, 6:6900--6919, 2018.
+
+\bibitem{full_partial}
+Chunli Ren, Guoan Zhang, Xiaohui Gu, and Yue Li.
+\newblock Computing offloading in vehicular edge computing networks: Full or
+  partial offloading?
+\newblock In {\em 2022 IEEE 6th Information Technology and Mechatronics
+  Engineering Conference (ITOEC)}, volume~6, pages 693--698, 2022.
+
+\bibitem{save_energy}
+Congfeng Jiang, Xiaolan Cheng, Honghao Gao, Xin Zhou, and Jian Wan.
+\newblock Toward computation offloading in edge computing: A survey.
+\newblock {\em IEEE Access}, 7:131543--131558, 2019.
+
+\bibitem{user_central}
+Xiaoheng Deng, Zihui Sun, Deng Li, Jie Luo, and Shaohua Wan.
+\newblock User-centric computation offloading for edge computing.
+\newblock {\em IEEE Internet of Things Journal}, 8(16):12559--12568, 2021.
+
+\end{thebibliography}
