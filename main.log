@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.20)  13 JAN 2024 22:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.20)  16 JAN 2024 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -188,29 +188,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--94
  []
 
 [1]
-<offloading.png, id=14, 621.084pt x 123.516pt>
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<offloading.png, id=18, 621.084pt x 123.516pt>
 File: offloading.png Graphic file (type png)
 <use offloading.png>
-Package pdftex.def Info: offloading.png  used on input line 132.
+Package pdftex.def Info: offloading.png  used on input line 147.
 (pdftex.def)             Requested size: 362.37569pt x 72.06714pt.
- (main.bbl [2 <./offloading.png>]) [3] (main.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+[3 <./offloading.png>] (main.bbl [4]) [5] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2855 strings out of 475551
- 46279 string characters out of 5762554
+ 2860 strings out of 475551
+ 46366 string characters out of 5762554
  1927238 words of memory out of 5000000
- 24058 multiletter control sequences out of 15000+600000
- 563586 words of font info for 54 fonts, out of 8000000 for 9000
+ 24063 multiletter control sequences out of 15000+600000
+ 563932 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,79p,1131b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,79p,1193b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (4 pages, 183253 bytes).
+Output written on main.pdf (6 pages, 190458 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

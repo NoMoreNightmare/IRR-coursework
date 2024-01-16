@@ -56,6 +56,18 @@ Keyan Cao, Yefan Liu, Gongjie Meng, and Qimeng Sun.
 \newblock An overview on edge computing research.
 \newblock {\em IEEE Access}, 8:85714--85728, 2020.
 
+\bibitem{no_cloud_1_density}
+Cheng Zhang, Hailiang Zhao, and Shuiguang Deng.
+\newblock A density-based offloading strategy for iot devices in edge computing
+  systems.
+\newblock {\em IEEE Access}, 6:73520--73530, 2018.
+
+\bibitem{cloud_3_edgemanager}
+Congshi Jiang, Yihong Li, Junlong Su, and Quan Chen.
+\newblock Research on new edge computing network architecture and task
+  offloading strategy for {{Internet}} of {{Things}}.
+\newblock {\em Wireless Networks}, 2021.
+
 \bibitem{aim_offloading}
 Wei Yu, Fan Liang, Xiaofei He, William~Grant Hatcher, Chao Lu, Jie Lin, and
   Xinyu Yang.
@@ -69,6 +81,12 @@ Chunli Ren, Guoan Zhang, Xiaohui Gu, and Yue Li.
 \newblock In {\em 2022 IEEE 6th Information Technology and Mechatronics
   Engineering Conference (ITOEC)}, volume~6, pages 693--698, 2022.
 
+\bibitem{full_offload_2}
+Ying Chen, Ning Zhang, Yongchao Zhang, Xin Chen, Wen Wu, and Xuemin Shen.
+\newblock Energy efficient dynamic offloading in mobile edge computing for
+  internet of things.
+\newblock {\em IEEE Transactions on Cloud Computing}, 9(3):1050--1060, 2021.
+
 \bibitem{save_energy}
 Congfeng Jiang, Xiaolan Cheng, Honghao Gao, Xin Zhou, and Jian Wan.
 \newblock Toward computation offloading in edge computing: A survey.
@@ -78,5 +96,11 @@ Congfeng Jiang, Xiaolan Cheng, Honghao Gao, Xin Zhou, and Jian Wan.
 Xiaoheng Deng, Zihui Sun, Deng Li, Jie Luo, and Shaohua Wan.
 \newblock User-centric computation offloading for edge computing.
 \newblock {\em IEEE Internet of Things Journal}, 8(16):12559--12568, 2021.
+
+\bibitem{granuity_2}
+Zaiwar Ali, Ziaul~Haq Abbas, Ghulam Abbas, Abdullah Numani, and Muhammad Bilal.
+\newblock Smart computational offloading for mobile edge computing in
+  next-generation internet of things networks.
+\newblock {\em Computer Networks}, 198:108356, 2021.
 
 \end{thebibliography}
