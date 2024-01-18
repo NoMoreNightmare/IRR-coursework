@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.20)  16 JAN 2024 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.20)  18 JAN 2024 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -193,7 +193,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
@@ -202,54 +202,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-<offloading.png, id=18, 621.084pt x 123.516pt>
+[2]
+<SeNBs.png, id=18, 207.02344pt x 184.06265pt>
+File: SeNBs.png Graphic file (type png)
+<use SeNBs.png>
+Package pdftex.def Info: SeNBs.png  used on input line 134.
+(pdftex.def)             Requested size: 226.48395pt x 201.37138pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+<edgeconnectedcloud.jpg, id=20, 158.994pt x 71.0655pt>
+File: edgeconnectedcloud.jpg Graphic file (type jpg)
+<use edgeconnectedcloud.jpg>
+Package pdftex.def Info: edgeconnectedcloud.jpg  used on input line 142.
+(pdftex.def)             Requested size: 226.48395pt x 101.23683pt.
+[3 <./SeNBs.png> <./edgeconnectedcloud.jpg>]
+<offloading.png, id=25, 621.084pt x 123.516pt>
 File: offloading.png Graphic file (type png)
 <use offloading.png>
-Package pdftex.def Info: offloading.png  used on input line 147.
+Package pdftex.def Info: offloading.png  used on input line 161.
 (pdftex.def)             Requested size: 362.37569pt x 72.06714pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+
+ []
+
+[4 <./offloading.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
-[3 <./offloading.png>] (main.bbl [4]) [5] (main.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+
+ []
+
+(main.bbl [6]) [7] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2860 strings out of 475551
- 46366 string characters out of 5762554
- 1927238 words of memory out of 5000000
- 24063 multiletter control sequences out of 15000+600000
+ 2877 strings out of 475551
+ 46747 string characters out of 5762554
+ 1928238 words of memory out of 5000000
+ 24080 multiletter control sequences out of 15000+600000
  563932 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,79p,1193b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,79p,1749b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Users/10253/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (6 pages, 190458 bytes).
+Output written on main.pdf (8 pages, 306942 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

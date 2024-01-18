@@ -62,11 +62,23 @@ Cheng Zhang, Hailiang Zhao, and Shuiguang Deng.
   systems.
 \newblock {\em IEEE Access}, 6:73520--73530, 2018.
 
+\bibitem{granuity_2}
+Zaiwar Ali, Ziaul~Haq Abbas, Ghulam Abbas, Abdullah Numani, and Muhammad Bilal.
+\newblock Smart computational offloading for mobile edge computing in
+  next-generation internet of things networks.
+\newblock {\em Computer Networks}, 198:108356, 2021.
+
 \bibitem{cloud_3_edgemanager}
 Congshi Jiang, Yihong Li, Junlong Su, and Quan Chen.
 \newblock Research on new edge computing network architecture and task
   offloading strategy for {{Internet}} of {{Things}}.
 \newblock {\em Wireless Networks}, 2021.
+
+\bibitem{cloud_2_edgeconnectedtocloud}
+Ying Chen, Wei Gu, and Kaixin Li.
+\newblock Dynamic task offloading for internet of things in mobile edge
+  computing via deep reinforcement learning.
+\newblock {\em International Journal of Communication Systems}, n/a(n/a):e5154.
 
 \bibitem{aim_offloading}
 Wei Yu, Fan Liang, Xiaofei He, William~Grant Hatcher, Chao Lu, Jie Lin, and
@@ -97,10 +109,18 @@ Xiaoheng Deng, Zihui Sun, Deng Li, Jie Luo, and Shaohua Wan.
 \newblock User-centric computation offloading for edge computing.
 \newblock {\em IEEE Internet of Things Journal}, 8(16):12559--12568, 2021.
 
-\bibitem{granuity_2}
-Zaiwar Ali, Ziaul~Haq Abbas, Ghulam Abbas, Abdullah Numani, and Muhammad Bilal.
-\newblock Smart computational offloading for mobile edge computing in
-  next-generation internet of things networks.
-\newblock {\em Computer Networks}, 198:108356, 2021.
+\bibitem{objective_energy_2}
+Yaru Fu, Xiaolong Yang, Peng Yang, Angus K.~Y. Wong, Zheng Shi, Hong Wang, and
+  Tony Q.~S. Quek.
+\newblock Energy-efficient offloading and resource allocation for mobile edge
+  computing enabled mission-critical internet-of-things systems.
+\newblock {\em EURASIP Journal on Wireless Communications and Networking},
+  2021(1):26, 2021.
+
+\bibitem{energy_objective}
+Haodong Lu, Xiaoming He, Miao Du, Xiukai Ruan, Yanfei Sun, and Kun Wang.
+\newblock Edge qoe: Computation offloading with deep reinforcement learning for
+  internet of things.
+\newblock {\em IEEE Internet of Things Journal}, 7(10):9255--9265, 2020.
 
 \end{thebibliography}
