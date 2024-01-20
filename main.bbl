@@ -26,6 +26,11 @@ Zhaolong Ning, Peiran Dong, Xiangjie Kong, and Feng Xia.
   computing enabled internet of things.
 \newblock {\em IEEE Internet of Things Journal}, 6(3):4804--4814, 2019.
 
+\bibitem{offloading_strategy}
+Li~Lin, Xiaofei Liao, Hai Jin, and Peng Li.
+\newblock Computation offloading toward edge computing.
+\newblock {\em Proceedings of the IEEE}, 107(8):1584--1607, 2019.
+
 \bibitem{cloud_advatange}
 Manuel Díaz, Cristian Martín, and Bartolomé Rubio.
 \newblock State-of-the-art, challenges, and open issues in the integration of
